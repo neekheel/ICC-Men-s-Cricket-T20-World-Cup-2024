@@ -16,7 +16,7 @@ seed_examples:
     answer: India won the 2024 ICC Men's T20 Cricket World Cup.
 
   - question: Where was the final of the 2024 ICC Men's T20 Cricket World Cup played?
-    answer: The final of the 2024 ICC Men's T20 Cricket World Cup was played at Kensington Oval stadium, 
+    answer: The final of the 2024 ICC Men's T20 Cricket World Cup was played at Kensington Oval stadium,
       Barbados, West Indies.
 
   - question: What were the dates for the semi-finals of the 2024 ICC Men's T20 World Cup?
@@ -33,7 +33,7 @@ seed_examples:
       T20 World Cup.
 
   - question: Who were the ambassadors of the 2024 ICC Men's T20 World Cup?
-    answer: The ambassadors of the 2024 ICC Men's T20 World Cup were Yuvraj Singh, Chris Gayle, Shahid Afridi, 
+    answer: The ambassadors of the 2024 ICC Men's T20 World Cup were Yuvraj Singh, Chris Gayle, Shahid Afridi,
       and Usain Bolt.
 
   - question: Which new teams qualified for the 2024 ICC Men's T20 World Cup?
