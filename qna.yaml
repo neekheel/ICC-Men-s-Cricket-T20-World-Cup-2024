@@ -16,7 +16,8 @@ seed_examples:
     answer: India won the 2024 ICC Men's T20 Cricket World Cup.
 
   - question: Where was the final of the 2024 ICC Men's T20 Cricket World Cup played?
-    answer: The final of the 2024 ICC Men's T20 Cricket World Cup was played at Kensington Oval stadium, Barbados, West Indies.
+    answer: The final of the 2024 ICC Men's T20 Cricket World Cup was played at Kensington Oval stadium, 
+      Barbados, West Indies.
 
   - question: What were the dates for the semi-finals of the 2024 ICC Men's T20 World Cup?
     answer: The semi-finals of the 2024 ICC Men's T20 World Cup took place on 26 and 27 June 2024.
@@ -28,10 +29,24 @@ seed_examples:
     answer: A total of 55 matches were played in the 2024 ICC Men's T20 World Cup.
 
   - question: Which countries hosted the matches in the United States?
-    answer: Matches in the United States were hosted in Florida, Dallas, and New York during the 2024 ICC Men's T20 World Cup.
+    answer: Matches in the United States were hosted in Florida, Dallas, and New York during the 2024 ICC Men's
+      T20 World Cup.
 
   - question: Who were the ambassadors of the 2024 ICC Men's T20 World Cup?
-    answer: The ambassadors of the 2024 ICC Men's T20 World Cup were Yuvraj Singh, Chris Gayle, Shahid Afridi, and Usain Bolt.
+    answer: The ambassadors of the 2024 ICC Men's T20 World Cup were Yuvraj Singh, Chris Gayle, Shahid Afridi, 
+      and Usain Bolt.
+
+  - question: Which new teams qualified for the 2024 ICC Men's T20 World Cup?
+    answer: Canada and Uganda qualified for the 2024 ICC Men's T20 World Cup for the first time.
+
+  - question: What was the prize money for the 2024 ICC Men's T20 World Cup champions?
+    answer: The prize money for the 2024 ICC Men's T20 World Cup champions was $2.45 million.
+
+  - question: Which team was India’s captain for the 2024 ICC Men's T20 World Cup?
+    answer: Rohit Sharma was the captain of India for the 2024 ICC Men's T20 World Cup.
+
+  - question: Which team did India defeat in the final of the 2024 ICC Men's T20 World Cup?
+    answer: India defeated South Africa by 7 runs in the final of the 2024 ICC Men's T20 World Cup.
 
 document:
   repo: https://github.com/neekheel/ICC-Men-s-Cricket-T20-World-Cup-2024
