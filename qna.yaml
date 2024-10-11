@@ -1,4 +1,4 @@
-version: 2
+version: 1
 task_description: Teach the model about Men's cricket World Cup.
 created_by: ndehadra
 domain: Sports
